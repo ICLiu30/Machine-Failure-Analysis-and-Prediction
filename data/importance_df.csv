@@ -1,0 +1,17 @@
+features,importance
+HDF,0.24881561
+OSF,0.24365291
+TWF,0.20415843
+PWF,0.07901207
+Torque [Nm],0.044987693
+Rotational speed [rpm],0.041168865
+Air temperature [K],0.024657799
+Temperature difference [K],0.02343715
+Power [Nm*rpm],0.022964934
+Torque Toll Wear [Nm*min],0.019740395
+Tool wear [min],0.019512208
+Process temperature [K],0.010922741
+Type_H,0.005416053
+Type_L,0.004907628
+Type_M,0.004881752
+RNF,0.001763687
