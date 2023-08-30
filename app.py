@@ -435,3 +435,15 @@ In conclusion, these findings are instrumental in promoting the adoption of pred
 
 
 st.image(str(path_to_Matrix_png), use_column_width=True)
+
+st.write("""
+---
+
+### Thank You for Your Time!
+
+If you're interested in diving deeper into the details, data preprocessing, or model training, feel free to visit:
+- My Kaggle notebook [here](https://www.kaggle.com/code/icliu30/xgboost-binary-machine-failure-eda-prediction)
+- My GitHub repository [here](https://github.com/ICLiu30/Machine-Failure-Analysis-and-Prediction/tree/main)
+
+Your interest and time are much appreciated!
+""")
