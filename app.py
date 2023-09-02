@@ -73,7 +73,7 @@ By leveraging this data, the goal is to provide actionable insights for preventi
 st.write("""
 ---
 
-### Note to Readers:
+#### Note to Readers:
 
 Due to the large dataset, rendering interactive plots for every visualization would significantly slow down the deployment process online. To ensure a smoother experience, some plots are presented as PNG figures. Apologies for any inconvenience, and thank you for your understanding!
 
